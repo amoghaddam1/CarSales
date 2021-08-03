@@ -1,0 +1,15 @@
+C:\Users\khobo\source\repos\RRCAGWindowsAliMoghaddam\RRCAGApp\bin\Debug\RRCAGApp.exe.config
+C:\Users\khobo\source\repos\RRCAGWindowsAliMoghaddam\RRCAGApp\bin\Debug\RRCAGApp.exe
+C:\Users\khobo\source\repos\RRCAGWindowsAliMoghaddam\RRCAGApp\bin\Debug\RRCAGApp.pdb
+C:\Users\khobo\source\repos\RRCAGWindowsAliMoghaddam\RRCAGApp\obj\Debug\RRCAGApp.LauncherForm.resources
+C:\Users\khobo\source\repos\RRCAGWindowsAliMoghaddam\RRCAGApp\obj\Debug\RRCAGApp.Properties.Resources.resources
+C:\Users\khobo\source\repos\RRCAGWindowsAliMoghaddam\RRCAGApp\obj\Debug\RRCAGApp.csproj.GenerateResource.cache
+C:\Users\khobo\source\repos\RRCAGWindowsAliMoghaddam\RRCAGApp\obj\Debug\RRCAGApp.csproj.CoreCompileInputs.cache
+C:\Users\khobo\source\repos\RRCAGWindowsAliMoghaddam\RRCAGApp\obj\Debug\RRCAGApp.exe
+C:\Users\khobo\source\repos\RRCAGWindowsAliMoghaddam\RRCAGApp\obj\Debug\RRCAGApp.pdb
+C:\Users\khobo\source\repos\RRCAGWindowsAliMoghaddam\RRCAGApp\obj\Debug\RRCAGApp.AboutForm.resources
+C:\Users\khobo\source\repos\RRCAGWindowsAliMoghaddam\RRCAGApp\obj\Debug\RRCAGApp.SalesQuoteForm.resources
+C:\Users\khobo\source\repos\RRCAGWindowsAliMoghaddam\RRCAGApp\bin\Debug\RRCAGLibrary.dll
+C:\Users\khobo\source\repos\RRCAGWindowsAliMoghaddam\RRCAGApp\bin\Debug\RRCAGLibrary.pdb
+C:\Users\khobo\source\repos\RRCAGWindowsAliMoghaddam\RRCAGApp\obj\Debug\RRCAGApp.csproj.CopyComplete
+C:\Users\khobo\source\repos\RRCAGWindowsAliMoghaddam\RRCAGApp\obj\Debug\RRCAGApp.csproj.AssemblyReference.cache

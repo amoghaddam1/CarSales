@@ -1,0 +1,6 @@
+C:\Users\khobo\source\repos\RRCAGLibraryAliMoghaddam\RRCAGLibrary\bin\Debug\RRCAGLibrary.dll
+C:\Users\khobo\source\repos\RRCAGLibraryAliMoghaddam\RRCAGLibrary\bin\Debug\RRCAGLibrary.pdb
+C:\Users\khobo\source\repos\RRCAGLibraryAliMoghaddam\RRCAGLibrary\obj\Debug\RRCAGLibrary.csprojAssemblyReference.cache
+C:\Users\khobo\source\repos\RRCAGLibraryAliMoghaddam\RRCAGLibrary\obj\Debug\RRCAGLibrary.csproj.CoreCompileInputs.cache
+C:\Users\khobo\source\repos\RRCAGLibraryAliMoghaddam\RRCAGLibrary\obj\Debug\RRCAGLibrary.dll
+C:\Users\khobo\source\repos\RRCAGLibraryAliMoghaddam\RRCAGLibrary\obj\Debug\RRCAGLibrary.pdb
